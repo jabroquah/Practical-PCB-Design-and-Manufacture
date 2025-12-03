@@ -35,4 +35,5 @@ Construction of a solderless-breadboard “instrument droid” used to character
 
 ### Resources
 Reference Book: https://ieeexplore.ieee.org/document/9623361
+
 Workshop Videos: https://www.youtube.com/channel/UCNb5R0BXy-6Umqy6nQhtOJw/playlists
